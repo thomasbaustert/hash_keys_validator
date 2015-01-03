@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/thomasbaustert/hash_keys_validator.svg?branch=master)](https://travis-ci.org/thomasbaustert/hash_keys_validator)
+
 # hash_keys_validator
 
 Validates hash keys according to a whitelist.
